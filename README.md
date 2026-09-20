@@ -24,7 +24,7 @@ O portfólio foi desenvolvido com tecnologias básicas da web, priorizando uma e
 
 O site está disponível em:
 
-**[willdougla.github.io](https://willdougla.github.io)**
+**[willianarantes.tech](willianarantes.tech)**
 
 ## Próximos passos
 
